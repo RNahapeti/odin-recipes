@@ -1,0 +1,29 @@
+* {
+    font-family: Verdana, Helvetica, Arial, sans-serif;
+}
+
+h1 {
+    font-size: 2.5em;
+    color: rgb(13, 83, 130);
+    text-transform: uppercase;
+    text-decoration: underline wavy rgb(156, 190, 241) .1em;
+
+}
+
+p {
+    color: #4d5059;
+}
+
+.intro {
+    font-size: 1.1em;
+}
+
+a {
+    color: orange;
+    text-decoration: none;
+}
+
+a:hover {
+    color:#3c5375;
+}
+
