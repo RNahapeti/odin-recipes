@@ -2,6 +2,10 @@
     font-family: Verdana, Helvetica, Arial, sans-serif;
 }
 
+ul {
+    list-style-type: circle;
+}
+
 h1 {
     font-size: 2.5em;
     color: rgb(13, 83, 130);
